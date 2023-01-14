@@ -16,8 +16,9 @@ Prompt the user to "Enter a number between 20 and 100".
 If the user guessed 80 on the second guess, this time you should prompt "Enter a number between 20 (the lowest guess closest to your number) to 80 (the closest big guess to your number)".
 Project Skeleton:
 01-find-number(folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
+
+
+|----readme.md                  
 |----solution
 
         |----index.html  
