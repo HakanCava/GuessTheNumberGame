@@ -19,6 +19,7 @@ Project Skeleton:
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----solution
+
         |----index.html  
         |----style.css   
         |----index.js
