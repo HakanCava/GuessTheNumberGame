@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  
+  background-image: linear-gradient(to right, #e66465, #9198e5);
+  font-family: cursive;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+header {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+#magicHat {
+  width: 10rem;
+}
+
+main {
+  text-align: center;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.box1 {
+  margin: 2rem;
+}
+
+#input {
+  margin: 0.5rem;
+  padding: 0.4rem;
+  width: 10rem;
+  border-radius: 15px;
+  outline: none;
+}
+.btn {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: crimson;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-family: cursive;
+}
+
+.box2,
+.box3 {
+  margin-top: 1rem;
+}
+
+.box4 img {
+  border-radius: 10px;
+}
